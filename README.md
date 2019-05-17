@@ -1,4 +1,4 @@
-#Laravel Bugherd
+#Jas Atwal
 
 [![Build Status](https://travis-ci.org/onwwward/laravel-bugherd.svg?branch=master)](https://travis-ci.org/onwwward/laravel-bugherd)
 [![StyleCI](https://styleci.io/repos/66357568/shield)](https://styleci.io/repos/65727693)
